@@ -38,8 +38,8 @@ async def start(client, message):
         InlineKeyboardButton('Other Bots', url='https://t.me/subin_works/84'),
     ],
     [
-        InlineKeyboardButton('Bugs?', url='https://t.me/subinps'),
-        InlineKeyboardButton('Source', url='https://github.com/subinps/MusicPlayer'),
+        InlineKeyboardButton('Bugs?', url='https://t.me/real_stellarlord'),
+        InlineKeyboardButton('main group ', url='https://t.me/mjsking786'),
     ],
     [
         InlineKeyboardButton('Help', callback_data='help'),
